@@ -1,0 +1,539 @@
+{"level":"error","message":"Unauthorized request to path /"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 1 created."}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 2 created."}
+{"level":"info","message":"User with id 3 created."}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 4 created."}
+{"level":"info","message":"User with id 5 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 6 created."}
+{"level":"info","message":"User with id 7 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 8 created."}
+{"level":"info","message":"User with id 9 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 10 created."}
+{"level":"info","message":"User with id 11 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 12 created."}
+{"level":"info","message":"User with id 13 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 14 created."}
+{"level":"info","message":"User with id 15 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 16 created."}
+{"level":"info","message":"User with id 17 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 18 created."}
+{"level":"info","message":"User with id 19 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 20 created."}
+{"level":"info","message":"User with id 21 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 22 created."}
+{"level":"info","message":"User with id 23 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 24 created."}
+{"level":"info","message":"User with id 25 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 26 created."}
+{"level":"info","message":"User with id 27 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 28 created."}
+{"level":"info","message":"User with id 29 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 30 created."}
+{"level":"info","message":"User with id 31 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 32 created."}
+{"level":"info","message":"User with id 33 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 34 created."}
+{"level":"info","message":"User with id 35 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 36 created."}
+{"level":"info","message":"User with id 37 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 38 created."}
+{"level":"info","message":"User with id 39 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 40 created."}
+{"level":"info","message":"User with id 41 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 42 created."}
+{"level":"info","message":"User with id 43 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 44 created."}
+{"level":"info","message":"User with id 45 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 46 created."}
+{"level":"info","message":"User with id 47 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 48 created."}
+{"level":"info","message":"User with id 49 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Wine with id 23948 not found"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 50 created."}
+{"level":"info","message":"User with id 51 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Wine with id 23948 not found"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 52 created."}
+{"level":"info","message":"User with id 53 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Wine with id 23948 not found"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 54 created."}
+{"level":"info","message":"User with id 55 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Wine with id 23948 not found"}
+{"level":"error","message":"Wine with id 2345 not found"}
+{"level":"info","message":"Wine with id 2 deleted"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 56 created."}
+{"level":"info","message":"User with id 57 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Wine with id 23948 not found"}
+{"level":"error","message":"Wine with id 2345 not found"}
+{"level":"info","message":"Wine with id 2 deleted"}
+{"level":"error","message":"'wine_name' is required"}
+{"level":"error","message":"'winery' is required"}
+{"level":"error","message":"'varietal' is required"}
+{"level":"error","message":"'rating' is required"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 58 created."}
+{"level":"info","message":"User with id 59 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Wine with id 23948 not found"}
+{"level":"error","message":"Wine with id 2345 not found"}
+{"level":"info","message":"Wine with id 2 deleted"}
+{"level":"error","message":"'wine_name' is required"}
+{"level":"error","message":"'winery' is required"}
+{"level":"error","message":"'varietal' is required"}
+{"level":"error","message":"'rating' is required"}
+{"level":"info","message":"Project with id 1 created."}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 60 created."}
+{"level":"info","message":"User with id 61 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Wine with id 23948 not found"}
+{"level":"error","message":"Wine with id 2345 not found"}
+{"level":"info","message":"Wine with id 2 deleted"}
+{"level":"error","message":"'wine_name' is required"}
+{"level":"error","message":"'winery' is required"}
+{"level":"error","message":"'varietal' is required"}
+{"level":"error","message":"'rating' is required"}
+{"level":"info","message":"Project with id 2 created."}
+{"level":"info","message":"Project with id 3 created."}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 62 created."}
+{"level":"info","message":"User with id 63 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Wine with id 23948 not found"}
+{"level":"error","message":"Wine with id 2345 not found"}
+{"level":"info","message":"Wine with id 2 deleted"}
+{"level":"error","message":"'wine_name' is required"}
+{"level":"error","message":"'winery' is required"}
+{"level":"error","message":"'varietal' is required"}
+{"level":"error","message":"'rating' is required"}
+{"level":"info","message":"Project with id 4 created."}
+{"level":"info","message":"Project with id 5 created."}
+{"level":"error","message":"Wine with id 2345 not found"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 64 created."}
+{"level":"info","message":"User with id 65 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Wine with id 23948 not found"}
+{"level":"error","message":"Wine with id 2345 not found"}
+{"level":"info","message":"Wine with id 2 deleted"}
+{"level":"error","message":"'wine_name' is required"}
+{"level":"error","message":"'winery' is required"}
+{"level":"error","message":"'varietal' is required"}
+{"level":"error","message":"'rating' is required"}
+{"level":"info","message":"Project with id 6 created."}
+{"level":"info","message":"Project with id 7 created."}
+{"level":"error","message":"Wine with id 2345 not found"}
+{"level":"error","message":"Unauthorized request to path /api/users"}
+{"level":"error","message":"Unauthorized request to path /api/login"}
+{"level":"error","message":"'first_name' is required"}
+{"level":"error","message":"'last_name' is required"}
+{"level":"error","message":"'username' is required"}
+{"level":"error","message":"'password' is required"}
+{"level":"info","message":"User with id 66 created."}
+{"level":"info","message":"User with id 67 created."}
+{"level":"error","message":"User not found."}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"'username' and 'password' are required"}
+{"level":"error","message":"Incorrect password"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Unauthorized request to path /api/wines/1"}
+{"level":"error","message":"Wine with id 23948 not found"}
+{"level":"error","message":"Wine with id 2345 not found"}
+{"level":"info","message":"Wine with id 2 deleted"}
+{"level":"error","message":"'wine_name' is required"}
+{"level":"error","message":"'winery' is required"}
+{"level":"error","message":"'varietal' is required"}
+{"level":"error","message":"'rating' is required"}
+{"level":"info","message":"Project with id 8 created."}
+{"level":"info","message":"Project with id 9 created."}
+{"level":"error","message":"Wine with id 2345 not found"}
